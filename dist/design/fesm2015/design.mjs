@@ -21,7 +21,7 @@ class DesignComponent {
 DesignComponent.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "13.2.7", ngImport: i0, type: DesignComponent, deps: [], target: i0.ɵɵFactoryTarget.Component });
 DesignComponent.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "12.0.0", version: "13.2.7", type: DesignComponent, selector: "lib-design", ngImport: i0, template: `
     <p>
-      design works!
+      some
     </p>
   `, isInline: true });
 i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "13.2.7", ngImport: i0, type: DesignComponent, decorators: [{
@@ -30,7 +30,7 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "13.2.7", ngImpor
                     selector: 'lib-design',
                     template: `
     <p>
-      design works!
+      some
     </p>
   `,
                     styles: []
